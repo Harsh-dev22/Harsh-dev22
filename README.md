@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Harsh Kumar 👋
+Frontend Developer | Learning HTML, CSS, JavaScript
+
+## Skills
+-HTML
+-CSS
+-JavaScript
+
+## Projects
+-YouTube Clone
 
 <!--
 **Harsh-dev22/Harsh-dev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
